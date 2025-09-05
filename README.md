@@ -221,9 +221,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Lead**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [your-github-username]
+- **Project Lead**: Emmanuel Maina
+- **Email**: imaina671@gmail.com
+- **GitHub**: kiidfreak
 
 ---
 
